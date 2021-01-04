@@ -12,7 +12,7 @@ let state = {
     },
     dialogsPage: {
         dialogs: [
-            { id: 1, name: 'Dimych' },
+            { id: 1, name: 'Dimyc' },
             { id: 2, name: 'Ivan' },
             { id: 3, name: 'Sergey' },
             { id: 4, name: 'Anya' },
